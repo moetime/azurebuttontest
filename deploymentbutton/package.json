@@ -1,0 +1,14 @@
+{
+  "name": "deploymentbutton",
+  "version": "0.0.0",
+  "description": "deploymentbutton",
+  "main": "app.js",
+  "author": {
+    "name": "Morrice"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}

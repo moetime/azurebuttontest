@@ -1,6 +1,6 @@
 ﻿
 /**
- * Module dependen
+ * Module d
  */
 
 var express = require('express');
